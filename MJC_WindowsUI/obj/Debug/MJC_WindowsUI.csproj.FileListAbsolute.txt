@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\bin\Debug\MJC_WindowsUI.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\bin\Debug\MJC_WindowsUI.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\bin\Debug\MJC_WindowsUI.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\obj\Debug\MJC_WindowsUI.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\obj\Debug\MJC_WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\obj\Debug\MJC_WindowsUI.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_WindowsUI\MJC_WindowsUI\obj\Debug\MJC_WindowsUI.pdb
